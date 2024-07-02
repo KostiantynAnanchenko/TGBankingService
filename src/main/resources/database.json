@@ -1,0 +1,38 @@
+{
+  "0": {
+    "bankList": [
+      "MONOBANK"
+    ],
+    "currencyList": [
+      "USD"
+    ],
+    "notificationTime": 12,
+    "symbols": 0
+  },
+  "538832410": {
+    "bankList": [
+      "MONOBANK"
+    ],
+    "currencyList": [
+      "USD",
+      "EUR",
+      "PLN",
+      "GBP",
+      "CHF",
+      "CZK"
+    ],
+    "notificationTime": 19,
+    "symbols": 2
+  },
+  "1": {
+    "bankList": [
+      "MONOBANK"
+    ],
+    "currencyList": [
+      "USD",
+      "CHF"
+    ],
+    "notificationTime": 12,
+    "symbols": 2
+  }
+}
